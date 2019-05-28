@@ -1,0 +1,14 @@
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHTacticLayer.exe.config
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHTacticLayer.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHTacticLayer.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHEntities.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHLowlevelLayer.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\Logger.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\Communicator.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHEntities.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\AHLowlevelLayer.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\Logger.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Release\Communicator.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Release\AHTacticLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Release\AHTacticLayer.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Release\AHTacticLayer.pdb

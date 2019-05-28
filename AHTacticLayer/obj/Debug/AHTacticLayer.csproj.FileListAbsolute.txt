@@ -1,0 +1,56 @@
+c:\users\ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe.config
+c:\users\ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe
+c:\users\ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.pdb
+c:\users\ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.csprojResolveAssemblyReference.cache
+c:\users\ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.exe
+c:\users\ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.pdb
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.exe
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.pdb
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.exe
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.exe
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.exe
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.pdb
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.pdb
+C:\Users\Ayal\documents\visual studio 2012\Projects\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.pdb
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe.config
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.pdb
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.exe
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.exe
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.exe
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.exe
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.pdb
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.pdb
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.pdb
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.pdb
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.csprojResolveAssemblyReference.cache
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.exe
+C:\Users\oronanschel\Dropbox\ForOron\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.pdb
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe.config
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.pdb
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.exe
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.exe
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.exe
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.exe
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.pdb
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.pdb
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.pdb
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.pdb
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.csprojResolveAssemblyReference.cache
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.exe
+C:\Users\ataitler\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe.config
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHTacticLayer.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHEntities.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\AHLowlevelLayer.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Logger.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\bin\Debug\Communicator.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHTacticLayer\obj\Debug\AHTacticLayer.pdb
