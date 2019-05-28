@@ -1,0 +1,10 @@
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\Communicator.exe.config
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\Communicator.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\Communicator.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\AHEntities.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\Logger.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\AHEntities.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\bin\Release\Logger.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\obj\Release\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\obj\Release\Communicator.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Communicator\obj\Release\Communicator.pdb
