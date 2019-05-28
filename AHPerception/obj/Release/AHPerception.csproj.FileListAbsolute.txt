@@ -1,0 +1,12 @@
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\AHPerception.exe.config
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\AHPerception.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\AHPerception.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\AHEntities.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\Communicator.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\Logger.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\AHEntities.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\Communicator.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\bin\Release\Logger.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\obj\Release\AHPerception.csprojResolveAssemblyReference.cache
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\obj\Release\AHPerception.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\AHPerception\obj\Release\AHPerception.pdb
