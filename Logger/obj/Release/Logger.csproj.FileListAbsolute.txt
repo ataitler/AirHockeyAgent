@@ -1,0 +1,6 @@
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Logger\bin\Release\Logger.exe.config
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Logger\bin\Release\Logger.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Logger\bin\Release\Logger.pdb
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Logger\obj\Release\Logger.exe
+C:\Users\Ayal\Desktop\AirHockeyAgent_V2\Logger\obj\Release\Logger.pdb
